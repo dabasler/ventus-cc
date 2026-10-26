@@ -1,0 +1,11 @@
+{
+  "type": "Standard",
+  "core": false,
+  "name": "VENTUS",
+  "icon": ":/CC/plugin/qVENTUS/ventus.svg",
+  "description": "3D wind exposure, directional shelter, crown metrics, and empirical wind attenuation for point clouds and meshes",
+  "authors": [{"name": "ventus-cc contributors"}],
+  "maintainers": [{"name": "ventus-cc contributors"}],
+  "references": [],
+  "version": "0.2.0-dev"
+}
